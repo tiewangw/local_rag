@@ -2,20 +2,20 @@
 
 
 
+### 启动
+
 Run: uvicorn main:app --port 7866 --reload
 Then visit 127.0.0.1:7866
 
 
 
-
-
-![image-20250530125646305](C:\Users\15761\AppData\Roaming\Typora\typora-user-images\image-20250530125646305.png)
-
+![image-20250530125646305](images\image-20250530125646305.png)
 
 
 
+### 异常处理
 
-![image-20250530174604611](C:\Users\15761\AppData\Roaming\Typora\typora-user-images\image-20250530174604611.png)
+![image-20250530174604611](images\image-20250530174604611.png)
 
 
 
@@ -27,13 +27,13 @@ Then visit 127.0.0.1:7866
 
 不报错的，但是上传文件提示Internal Server Error
 
-![image-20250530185909536](C:\Users\15761\AppData\Roaming\Typora\typora-user-images\image-20250530185909536.png)
+![image-20250530185909536](images\image-20250530185909536.png)
 
 
 
-![image-20250530185949363](C:\Users\15761\AppData\Roaming\Typora\typora-user-images\image-20250530185949363.png)
+![image-20250530185949363](images\image-20250530185949363.png)
 
-![image-20250530190030859](C:\Users\15761\AppData\Roaming\Typora\typora-user-images\image-20250530190030859.png)
+![image-20250530190030859](images\image-20250530190030859.png)
 
 
 
