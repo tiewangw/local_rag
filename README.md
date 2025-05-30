@@ -4,9 +4,11 @@
 
 ### 启动
 
-Run: uvicorn main:app --port 7866 --reload
+```linux
+uvicorn main:app --port 7866 --reload
+```
 
-浏览器登录 127.0.0.1:7866
+浏览器查看 [http://127.0.0.1:7866]()
 
 
 
