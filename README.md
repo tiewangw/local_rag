@@ -5,7 +5,8 @@
 ### 启动
 
 Run: uvicorn main:app --port 7866 --reload
-Then visit 127.0.0.1:7866
+
+浏览器登录 127.0.0.1:7866
 
 
 
@@ -15,13 +16,15 @@ Then visit 127.0.0.1:7866
 
 ### 异常处理
 
+#### No API Found
+
 ![image-20250530174604611](images/image-20250530174604611.png)
 
 
 
 修改了gradio的版本
 
-![2ceff04b860f1890428b1df1c850d89](C:\Users\15761\Documents\WeChat Files\wxid_2b7yqely3nd421\FileStorage\Temp\2ceff04b860f1890428b1df1c850d89.png)
+![2ceff04b860f1890428b1df1c850d89](images/2ceff04b860f1890428b1df1c850d89.png)
 
 
 
